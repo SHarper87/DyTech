@@ -27,6 +27,13 @@ data:extend({
         { position = {0, 1} },
       },
     },
+     energy_source =
+     {
+     type = "electric",
+     usage_priority = "secondary-input",
+     emissions = 0.01 / 2.5
+     },
+    energy_usage = "45kW",
     pumping_speed = 1.5,
     tile_width = 1,
     picture =
