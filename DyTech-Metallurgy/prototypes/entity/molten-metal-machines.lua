@@ -73,7 +73,7 @@ data:extend(
     max_health = 150,
     ingredient_count = 8,
     energy_usage = "150kW",
-	crafting_speed =0.5,
+	crafting_speed =0.1,
 	icon = "__DyTech-Metallurgy__/graphics/icons/blast-furnace.png",
     energy_source =
     {
