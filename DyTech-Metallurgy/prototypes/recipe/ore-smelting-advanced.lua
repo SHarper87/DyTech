@@ -8,12 +8,12 @@ data:extend(
     energy_required = 0.25,
     ingredients =
     {
-      {type="item", name="iron-ore", amount=1},
+      {type="item", name="iron-ore", amount=10},
 	  {type="fluid", name="lava-1600", amount=0.2}
     },
     results = 
 	{
-	  {type="fluid", name="molten-iron", amount=10}
+	  {type="fluid", name="molten-iron", amount=100}
 	}
   },
   {
@@ -24,12 +24,12 @@ data:extend(
     energy_required = 0.25,
     ingredients =
     {
-      {type="item", name="copper-ore", amount=1},
+      {type="item", name="copper-ore", amount=10},
 	  {type="fluid", name="lava-1200", amount=0.2}
     },
     results = 
 	{
-      {type="fluid", name="molten-copper", amount=10}
+      {type="fluid", name="molten-copper", amount=100}
     },
   },
 }
